@@ -28,7 +28,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install dbt-postgres
+          pip install "dbt-postgres<2.0.0"
           dbt deps --profiles-dir .
 
       - name: dbt Debug
