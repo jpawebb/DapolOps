@@ -7,6 +7,7 @@ on:
     branches: [ jpa-core-dev, main ]
   schedule:
     - cron: '0 */4 * * *'  # Every 4 hours (UTC)
+  workflow_dispatch:
 
 jobs:
   dbt-run:
