@@ -1,7 +1,7 @@
 # DapolOps: Production Data Platform for Model Train Inventory Management
 ![dbt CI](https://github.com/jpawebb/dapol-ops/actions/workflows/dbt_ci.yml/badge.svg)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![dbt Version](https://img.shields.io/badge/dbt-1.11.x-orange)
+![dbt Version](https://img.shields.io/badge/dbt-1.9.x-orange)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL%20(Neon)-00A3FF)
 ![Registry Count](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jpawebb/52696f4cc2409a384edce3e16955c875/raw/dapol_stats.json)
 
